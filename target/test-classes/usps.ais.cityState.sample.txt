@@ -1,0 +1,59 @@
+C     COPYRIGHT(C) 02-05 USPS 001                                                                                                
+A01001  SUFFIELD COMMONS                    LONG BROOK                  EST   O19950214                                          
+A01001  WALNUT                      EXT     WALNUT STREET               EXT   A20031125                                          
+A01001  WALNUT ST                   EXT     WALNUT STREET               EXT   O20031125                                          
+A01002  MILL HOLLOW                         MILL                        HOLW  P20020131                                          
+A01002  MOUNT PLEASANT              ST      MOUNT PLEASANT                    O19990629                                          
+A01002  POETS CORNER                        POETS CORNER                RD    O20001116                                          
+A01002  RUSSELVILLE                 RD      RUSSELLVILLE                RD    C20030422                                          
+A01003  THATCHER                    LN      THATCHER                    WAY   C20000301                                          
+A01007  CHAUNCEY                    ST      CHAUNCEY WALKER             ST    A20031125                                          
+A01007  CLOVER HILL                 RD      CLOVERHILL                  RD    C20000912                                          
+D55416Y25356 GOLDEN VALLEY                            BYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55416Y25845 MINNEAPOLIS                              PYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55416Y26248 SAINT LOUIS PARK            ST LOUIS PARKBYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55416Y26381 ST LOUIS PARK                            NYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55417Y25845 MINNEAPOLIS                              PYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55418Y25845 MINNEAPOLIS                              PYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55418Y26237 SAINT ANTHONY                            NNY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55418Y26370 ST ANTHONY                               NNY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55418Y26371 ST ANTHONY VILLAGE                       NNY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55419Y25845 MINNEAPOLIS                              PYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55420Y24862 BLOOMINGTON                              BYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+D55420Y25845 MINNEAPOLIS                              PYY25845MINNEAPOLIS                 YD 266360MN053HENNEPIN                 
+N00791NNNNNYYYNNNN                                                                                                               
+N00820NNNNNYYYNNNN                                                                                                               
+N00850NNNNNYYYNNNN                                                                                                               
+N00962NNNNNYYYNNNN                                                                                                               
+N01010NNNNNYYYNNNN                                                                                                               
+N01011NNNNNYYYNNNN                                                                                                               
+N01013NNNNNYYYNNNN                                                                                                               
+N01020NNNNNYYYNNNN                                                                                                               
+N01027NNNNNYYYNNNN                                                                                                               
+N01028NNNNNYYYNNNN                                                                                                               
+N01034NNNNNYYYNNNN                                                                                                               
+S0101301022
+S0170201703
+S0170201704
+S0170201705
+S0183001831
+S0183001832
+S0183301834
+S0184001841
+S0184001842
+S0184001843
+S0185001852
+S0185101854
+S0190101902                                                                                                    
+Z00728C05600730C05620040624                                                                                                      
+Z01002R00301054R00320030804                                                                                                      
+Z01011H06301223H06320040628                                                                                                      
+Z01011R00201223R00220040628                                                                                                      
+Z01054H06101002R00320030804                                                                                                      
+Z01072H06601002R00320030804                                                                                                      
+Z01238H06301223H06320040628                                                                                                      
+Z01253H06101223H06320040628                                                                                                      
+Z01351R00201054H06120030804                                                                                                      
+Z01360R00201354R00120041210                                                                                                      
+Z01376R00101354R00120040921                                                                                                      
+Z01376R00201354R00220040921                                                                                                      

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+
+	<bean id="messageSource" 
+		class="org.springframework.context.support.ResourceBundleMessageSource">
+		<property name="basename" value="messages"/>
+	</bean>
+	
+	<bean id="zipExtractor"
+		class="org.bitsofinfo.util.io.ZipExtractor"/>
+	
+	<import resource="classpath:classFinderContext.xml"/>
+	
+ 
+  
+ 
+</beans>  

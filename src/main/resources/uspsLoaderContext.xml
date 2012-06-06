@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<bean id="uspsLineParser" 
+		class="org.bitsofinfo.util.address.usps.ais.loader.USPSRecordParser">
+	</bean> 
+
+	<bean id="uspsUtils" 
+		class="org.bitsofinfo.util.address.usps.ais.USPSUtils">
+		<property name="uspsAisPackage" value="org.bitsofinfo.util.address.usps.ais"/>
+	</bean>
+
+	<bean id="uspsParser" 
+		class="org.bitsofinfo.util.address.usps.ais.loader.USPSParser">
+	</bean> 
+	
+
+  	<bean id="uspsIdGenerator" 
+		class="org.bitsofinfo.util.address.usps.ais.DefaultIdGenerator"
+		init-method="initialize"> 
+
+	</bean>
+	
+	<bean id="zip4NationalSourceReader" 
+		class="org.bitsofinfo.util.address.usps.ais.source.Zip4SourceDataExtractor">
+	</bean> 
+ 
+</beans>  

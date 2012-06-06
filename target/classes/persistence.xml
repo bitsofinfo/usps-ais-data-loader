@@ -1,0 +1,15 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0">
+  <persistence-unit name="bitsofinfo.usps" transaction-type="RESOURCE_LOCAL">
+  
+    <class>org.bitsofinfo.util.address.usps.ais.zipplus4.ZipPlus4Detail</class> 
+  	<class>org.bitsofinfo.util.address.usps.ais.Copyright</class> 
+  	<class>org.bitsofinfo.util.address.usps.ais.citystate.CityStateAlias</class> 
+    <class>org.bitsofinfo.util.address.usps.ais.citystate.CityStateDetail</class> 
+    <class>org.bitsofinfo.util.address.usps.ais.citystate.CityStateScheme</class> 
+    <class>org.bitsofinfo.util.address.usps.ais.citystate.CityStateSeasonal</class> 
+    <class>org.bitsofinfo.util.address.usps.ais.citystate.CityStateZoneSplit</class> 
+  
+  	
+  </persistence-unit>
+</persistence>
+   

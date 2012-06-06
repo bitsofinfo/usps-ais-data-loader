@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>  
+	<import resource="classpath:sharedContext.xml"/>
+	<import resource="classpath:recordLoaderContext.xml"/>
+	<import resource="classpath:uspsLoaderContext.xml"/>
+	<import resource="classpath:localDataLoaderContext.xml"/>
+	<import resource="classpath:jpaDataStoreContext.xml"/>
+</beans>       

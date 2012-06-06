@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+
+	<bean id="resourcePatternResolver" 
+		class="org.springframework.core.io.support.PathMatchingResourcePatternResolver">
+	</bean>
+
+ 	<bean id="metadataReaderFactory" 
+		class="org.springframework.core.type.classreading.SimpleMetadataReaderFactory">
+	</bean>
+	
+	
+ 	<bean id="classFinder" 
+		class="org.bitsofinfo.util.reflection.SpringClassFinder">
+	</bean>
+ 
+
+</beans>  

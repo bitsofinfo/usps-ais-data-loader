@@ -1,0 +1,7 @@
+1) Finish copyright assignment when loading records
+
+2) deal with duplicates, double insertions
+
+3) create indexer for USPSrecord objects
+
+4) fix hbase store to re-constitute copyright object

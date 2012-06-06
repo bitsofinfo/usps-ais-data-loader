@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<configuration>
+
+  <property>
+    <name>fs.default.name</name>
+    <value>hdfs://bitsofinfo:9000/</value>
+  </property>
+  
+  <property>
+    <name>mapred.job.tracker</name>
+    <value>bitsofinfo:9001</value>
+  </property>
+  
+</configuration>

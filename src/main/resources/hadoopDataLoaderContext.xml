@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+   "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+	<bean id="uspsDataLoader" 
+		class="org.bitsofinfo.util.address.usps.ais.loader.hadoop.HadoopDataLoader"
+		init-method="init">
+
+		<property name="hadoopConfFilename" value="hadoop-localhost.xml"/>
+		<property name="hdfsSourceDataRootDir" value="/uspsDataLoader/jobSourceData"/>
+		<property name="hdfsJobOutputRootDir" value="/uspsDataLoader/jobOutputData"/>
+		<property name="hdfsMapperJarPath" value="/uspsDataLoader/supportJars"/>
+		<property name="hdfsMapperJarFilename" value="hadoopDataLoaderSupport.jar"/>
+	</bean> 
+
+</beans>   
