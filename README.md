@@ -24,4 +24,4 @@ Links where USPS data files can be purchased:
 
 http://www.zipinfo.com/products/natzip4/natzip4.htm
 
-https://www.usps.com/business/address-information-systems.htm
+https://ribbs.usps.gov/addressing/documents/tech_guides/samples/index.cfm
